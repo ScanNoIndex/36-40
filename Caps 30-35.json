@@ -1,0 +1,57 @@
+{
+  "title": "Caps 30-35",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fxv27imhczzsbbc651ztqf6ws.webp&w=640&q=75",
+  "chapters": {
+    "30": {
+      "title": "30",
+      "volume": "",
+      "last_updated": "1751751064",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/D8qx9Oa7Ek"
+      }
+    },
+    "31": {
+      "title": "31",
+      "volume": "",
+      "last_updated": "1751751192",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/mrajNpzb60"
+      }
+    },
+    "32": {
+      "title": "32",
+      "volume": "",
+      "last_updated": "1751751305",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/WWvu7xNqDh"
+      }
+    },
+    "33": {
+      "title": "33",
+      "volume": "",
+      "last_updated": "1751751392",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/pTVdp0U0JB"
+      }
+    },
+    "34": {
+      "title": "34",
+      "volume": "",
+      "last_updated": "1751751512",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/TuADvJe6UR"
+      }
+    },
+    "35": {
+      "title": "35",
+      "volume": "",
+      "last_updated": "1751751619",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/WeDrAPLhlh"
+      }
+    }
+  }
+}
