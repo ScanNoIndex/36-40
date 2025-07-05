@@ -1,0 +1,49 @@
+{
+  "title": "36-40",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fxv27imhczzsbbc651ztqf6ws.webp&w=640&q=75",
+  "chapters": {
+    "36": {
+      "title": "36",
+      "volume": "",
+      "last_updated": "1751742563",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/nVPKZA7K0d"
+      }
+    },
+    "37": {
+      "title": "37",
+      "volume": "",
+      "last_updated": "1751742960",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/YYw5ZpcXR8"
+      }
+    },
+    "38": {
+      "title": "38",
+      "volume": "",
+      "last_updated": "1751743093",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/ZrqkoP8RGG"
+      }
+    },
+    "39": {
+      "title": "39",
+      "volume": "",
+      "last_updated": "1751743208",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/SyEyn3rUMw"
+      }
+    },
+    "40": {
+      "title": "40",
+      "volume": "",
+      "last_updated": "1751743331",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/hDr4CMOarC"
+      }
+    }
+  }
+}
