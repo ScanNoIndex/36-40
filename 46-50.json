@@ -1,0 +1,49 @@
+{
+  "title": "Caps 46-50",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fxv27imhczzsbbc651ztqf6ws.webp&w=640&q=75",
+  "chapters": {
+    "46": {
+      "title": "46",
+      "volume": "",
+      "last_updated": "1751744306",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/m2yXtoABZL"
+      }
+    },
+    "47": {
+      "title": "47",
+      "volume": "",
+      "last_updated": "1751744392",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/1qH3v6uiip"
+      }
+    },
+    "48": {
+      "title": "48",
+      "volume": "",
+      "last_updated": "1751744485",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/yf9pRx2jEH"
+      }
+    },
+    "49": {
+      "title": "49",
+      "volume": "",
+      "last_updated": "1751744598",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/3yprspd0Eg"
+      }
+    },
+    "50": {
+      "title": "50",
+      "volume": "",
+      "last_updated": "1751744699",
+      "groups": {
+        "NoIndex": "/proxy/api/imgbox/chapter/YXzVwZFh4V"
+      }
+    }
+  }
+}
